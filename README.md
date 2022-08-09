@@ -2,7 +2,7 @@
 
 The online markdown editor with a live preview.
 
-![Main](./Readme-images/main.png)
+![Main](./readme-images/main.png)
 
 ## Installation and Setup Instructions
 Clone down this repository. You will need node and npm installed globally on your machine.
@@ -42,15 +42,15 @@ The app supports the basic syntax outlined in the original Markdown design docum
 - Start writing text in the Editor field, following markdown syntax. Changes are reflected in a Previewer field in real-time as you edit.
 
 **Editor**  
-<img src="./Readme-images/editor.png" width="500">
+<img src="./readme-images/editor.png" width="500">
 
 **Previewer**  
-<img src="./Readme-images/previewer.png" width="500">
+<img src="./readme-images/previewer.png" width="500">
 
 - Select text, then press the specific button to add markdown syntax automatically. You can add headings, links, code, lists, quotes, and images or make the text bold, italic and strikethrough, using markdown buttons.
 
 **Buttons**  
-<img src="./Readme-images/buttons.png" width="500">
+<img src="./readme-images/buttons.png" width="500">
 
 ## Acknowledgments
 
